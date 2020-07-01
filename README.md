@@ -1,4 +1,3 @@
-# Week3Login
+# Maven Login Application
 
-Using Postman to verify that the correct username and password got a success message for login functionality otherwise got an unauthorized status code error.
-In the project folder demo1, I have done a Maven project for the similar functionality of Login
+The object of this project was to create a Spring application with Maven and a Servlet to handle the HTTP requests. The application takes in a JSON object with a username and password, authenticates the user and sends back the appropriate response status code. I learned how to create a Spring application with Maven to handle dependencies and how to create a Servlet.
